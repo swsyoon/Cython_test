@@ -1,0 +1,5 @@
+﻿  examples.c
+  mylib.c
+  Generating Code...
+Debug\examples.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1309,5): error MSB6006: "Lib.exe" exited with code 1112.

@@ -1,0 +1,4 @@
+﻿  examples.c
+  mylib.c
+  Generating Code...
+  mylib.vcxproj -> D:\Codes\git_folders\my_repository\Cython_test\mylib\x64\Debug\mylib.lib
