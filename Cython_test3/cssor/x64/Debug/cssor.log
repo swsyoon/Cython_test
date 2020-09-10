@@ -1,0 +1,6 @@
+﻿  cssor.c
+  cssor_src.c
+D:\Codes\git_folders\my_repository\Cython_test3\cssor\cssor_src.c(19,18): warning C4013: 'fmax' undefined; assuming extern returning int
+D:\Codes\git_folders\my_repository\Cython_test3\cssor\cssor_src.c(19,23): warning C4013: 'fabs' undefined; assuming extern returning int
+  Generating Code...
+  cssor.vcxproj -> D:\Codes\git_folders\my_repository\Cython_test3\cssor\x64\Debug\cssor.lib

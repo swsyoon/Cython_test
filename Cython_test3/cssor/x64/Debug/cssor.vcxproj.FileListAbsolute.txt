@@ -1,0 +1,2 @@
+D:\Codes\git_folders\my_repository\Cython_test3\cssor\x64\Debug\cssor.lib
+D:\Codes\git_folders\my_repository\Cython_test3\cssor\x64\Debug\cssor.pdb
