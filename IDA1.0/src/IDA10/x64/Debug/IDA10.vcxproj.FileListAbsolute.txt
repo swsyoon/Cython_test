@@ -1,0 +1,2 @@
+D:\Codes\git_folders\others\IDA1.0\src\IDA10\x64\Debug\IDA10.lib
+D:\Codes\git_folders\others\IDA1.0\src\IDA10\x64\Debug\IDA10.pdb
