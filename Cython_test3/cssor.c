@@ -2056,7 +2056,7 @@ static PyObject *__pyx_f_12cython_cssor_cycssor(__Pyx_memviewslice __pyx_v_U, do
  *     cdef double tol = 10e-8
  *     cdef int maxiters = 10000             # <<<<<<<<<<<<<<
  *     cdef int *info = NULL
- *     cssor(&U[0,0], m, n, omega, tol, maxiters, info)
+ *     cssor(&U[0,0], m, n, omega, tol, maxiters, info) # calling C function inside python function
  */
   __pyx_v_maxiters = 0x2710;
 
@@ -2064,7 +2064,7 @@ static PyObject *__pyx_f_12cython_cssor_cycssor(__Pyx_memviewslice __pyx_v_U, do
  *     cdef double tol = 10e-8
  *     cdef int maxiters = 10000
  *     cdef int *info = NULL             # <<<<<<<<<<<<<<
- *     cssor(&U[0,0], m, n, omega, tol, maxiters, info)
+ *     cssor(&U[0,0], m, n, omega, tol, maxiters, info) # calling C function inside python function
  * 
  */
   __pyx_v_info = NULL;
@@ -2072,7 +2072,7 @@ static PyObject *__pyx_f_12cython_cssor_cycssor(__Pyx_memviewslice __pyx_v_U, do
   /* "cssor.pyx":14
  *     cdef int maxiters = 10000
  *     cdef int *info = NULL
- *     cssor(&U[0,0], m, n, omega, tol, maxiters, info)             # <<<<<<<<<<<<<<
+ *     cssor(&U[0,0], m, n, omega, tol, maxiters, info) # calling C function inside python function             # <<<<<<<<<<<<<<
  * 
  */
   __pyx_t_1 = 0;
